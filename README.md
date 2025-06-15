@@ -29,8 +29,9 @@ This is a simple console-based number guessing game written in Python. The playe
 ## 🛠️ Requirements
 
 - Python 3.x
-  
-##📝 Features
+
+## 📝 Features
+
 - Input validation
 - Multiple difficulty levels
 - Dynamic feedback based on guesses
