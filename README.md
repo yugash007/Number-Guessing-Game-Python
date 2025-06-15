@@ -37,6 +37,11 @@ This is a simple console-based number guessing game written in Python. The playe
 - Dynamic feedback based on guesses
 - Replay logic (coming soon or can be added)
 
+## 📚 Future Enhancements
+- Add replay functionality
+- Track score and best attempt
+- GUI version using Tkinter or PyQt
+
 ## 📦 Run the Program
 
 ```bash
